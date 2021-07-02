@@ -20,11 +20,14 @@
 #   4) Print each variable, describing it when you print it.
 #
 # Example Code
-example_name = 'elia'
-print('EXAMPLE: my name is', example_name)
 
 # WRITE CODE BELOW
-
+name = 'Brielle'
+birthday = '12'
+fav_animal = 'puppy'
+print('my name is', name)
+print('my birthday is', birthday)
+print('my favorite animal is a', fav_animal)
 
 
 # 1.2 | Variable Creation | Integers / Floats
@@ -45,7 +48,14 @@ print('EXAMPLE: my name is', example_name)
 #   5) Print each variable, describing the value you print.
 
 # WRITE CODE BELOW
-
+fav_number = '12'
+bday_month = 'June'
+neg_number = '-45'
+float_num = '1.34'
+print('my favorite number is', fav_number)
+print('my birthday month is', bday_month)
+print('the negative number I have is', neg_number)
+print('a float number I have is', float_num)
 
 
 # 1.3 | Overwriting Variables
@@ -63,11 +73,14 @@ print('EXAMPLE: my name is', example_name)
 #   4) Print the variables you've overwritten, describing the values you print.
 #
 # Example Code
-example_name = 'lucia'
-print('EXAMPLE: my new name is', example_name)
 
 # WRITE CODE BELOW
-
+name = 'Benz'
+bday_month = 'October 31st'
+fav_number = '2'
+print('my new name is', name)
+print('my new birthday is on', bday_month)
+print('a number I think is unlucky is', fav_number)
 
 
 # 1.4 | Operations
@@ -91,7 +104,21 @@ print('EXAMPLE: my new name is', example_name)
 #   7) Print all the new variables you've created along with what the represent
 #
 # Example Code
-example_sum = 11 + 21
-print('EXAMPLE: the sum of 11 and 21 is', example_sum)
 
 # WRITE CODE BELOW
+sum_numbers = 5 + 10
+product = 9 * 8 * 89
+endproduct = sum_numbers / product
+name_animal = 'Brielle' + 'puppy'
+acronym = 'tbh ' * 12
+dif_numbers = 70 - 2
+fav_number = 12 ^2
+
+
+print('the sum of 5 + 10 is', sum_numbers)
+print('the product of 0 * 8 * 89 is', product)
+print('the end product of the created sum and the created product is', endproduct)
+print('the concatenation I created is', name_animal)
+print('the acronym I created is', acronym)
+print('the difference I created is', dif_numbers)
+print('my new lucky number is', fav_number)

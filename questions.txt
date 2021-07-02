@@ -1,8 +1,8 @@
-name: <name here>
-date: <date here>
+name: <Brielle Lane>
+date: <7/2/2021>
 
 1) What is a variable?
-
+A variable is 
 
 
 2) Are variable names case-sensitive? Is a variable named a the same as a variable named A?
