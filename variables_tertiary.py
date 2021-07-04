@@ -32,7 +32,13 @@ example_verse = (
 )
 
 # WRITE CODE BELOW
-
+song_line = (
+'You got me some type of way (hmm)\n' +
+print()
+'Ain\'t used to feelin\' this way (mmm mmm)\n' +
+print()
+'I do not know what to say (yeah, yeah)\n' 
+)
 
 # 3.2
 # Print
@@ -42,4 +48,4 @@ example_verse = (
 #   Remember you can re-use variables (like the chorus) if it's the same.
 #
 # WRITE CODE BELOW
-
+print(song_line)
